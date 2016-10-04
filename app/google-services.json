@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931804053872",
+    "firebase_url": "https://simplenotification-55d21.firebaseio.com",
+    "project_id": "simplenotification-55d21",
+    "storage_bucket": "simplenotification-55d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931804053872:android:31890dce6263c1f3",
+        "android_client_info": {
+          "package_name": "com.ssru.mrsmile.simplenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931804053872-fg3p3pd31opeva610e06p2bmmck7u11c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssru.mrsmile.simplenotification",
+            "certificate_hash": "FC526A8CC20FB6A8F38FC4CD7ECE2B9832D4F2FB"
+          }
+        },
+        {
+          "client_id": "931804053872-rhvghlk4oqhb5df018pvaeu8prcc8lk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7ms-uDdR6VPmEC8ipQ8jkrxKMR_rtjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931804053872-rhvghlk4oqhb5df018pvaeu8prcc8lk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -17,14 +17,5 @@ public class MainActivity extends AppCompatActivity {
 
     public void showNotification(View view) {
         // your code goes here.
-        Notification notification = new NotificationCompat.Builder(this)
-                .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle("Simple Notification.")
-                .setContentText("Hello Notification :)")
-                .setAutoCancel(true)
-                .build();
-
-        NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
-        notificationManager.notify(1000, notification);
     }
 }
